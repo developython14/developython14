@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mustapha Belkassem</h1>
 <h3 align="center">A passionate software engineer from Algeria</h3>
+[![](https://tokei.rs/b1/github/XAMPPRocky/tokei)](https://github.com/XAMPPRocky/tokei)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developython14&label=Profile%20views&color=0e75b6&style=flat" alt="developython14" /> </p>
 
